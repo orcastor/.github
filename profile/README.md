@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"><strong>Orca Stor：更聪明、更现代的轻量级NAS解决方案</strong></h1>
+<h1 align="center"><strong>Orca Stor：更聪明、更现代的轻量级NAS解决方案</strong><sup><a href="https://jb.gg/OpenSourceSupport"> via <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png?_gl=1*nba8r7*_ga*MTc4MjEwNTkzOS4xNzE0MjM1MDkz*_ga_9J976DJZ68*MTcxNDg5OTc0NS4zLjEuMTcxNDg5OTc2OS4zNi4wLjA.&_ga=2.101520707.337805047.1714899746-1782105939.1714235093" width="12%" /></a></sup></h1>
 
 <p align="center">
   <a href="/go.mod#L3" alt="go version">
