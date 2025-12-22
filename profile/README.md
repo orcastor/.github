@@ -46,8 +46,7 @@ Orca Stor is a **modern, intelligent, and efficient NAS** designed for the AI er
   ⏱ Instant Upload (Deduplication) · 📦 Object Packing · 🔪 Chunking · 🗂 Versioning · 🔐 Zero-Knowledge Encryption · 🗜 Smart Compression
 
 - **🤖 Built-in Intelligence**  
-  🔍 Full-Text Search (OCR / QR) · 🎙 Voice Assistant (ASR) · 🖼 AI Photo Processing  
-  *(Face Recognition · Enhancement · Watermark Removal · NSFW Detection)*
+  🔍 Full-Text Search (OCR / QR) · 🎙 Voice Assistant (ASR) · 🖼 AI Photo Processing (Face Recognition · Enhancement · Watermark Removal · NSFW Detection)
 
 - **⚡ High Efficiency by Design**  
   🖥 ~50W with Orange Pi 5 + 6 HDDs · 💸 Low-Cost Hardware (Backplane ≤25%) · 🚀 6 TOPS NPU · 🏎 High-Throughput I/O
@@ -102,8 +101,7 @@ Orca Stor 面向 **AI 时代** 打造，在低功耗硬件上融合现代存储�
   ⏱ 秒传（去重） · 📦 小对象打包 · 🔪 大对象分片 · 🗂 多版本 · 🔐 零知识加密 · 🗜 智能压缩
 
 - **🤖 内建智能能力**  
-  🔍 全文检索（OCR / 二维码） · 🎙 语音助手（ASR） · 🖼 照片 AI 处理  
-  （人脸分类 · 画质修复 · 去水印 · 鉴黄）
+  🔍 全文检索（OCR / 二维码） · 🎙 语音助手（ASR） · 🖼 照片 AI 处理（人脸分类 · 画质修复 · 去水印 · 鉴黄）
 
 - **⚡ 极致能效比**  
   🖥 香橙派 5 + 6 盘仅 ~50W · 💸 千元级成本（背板 ≤25%） · 🚀 6 TOPS NPU · 🏎 高性能读写
